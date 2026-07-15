@@ -316,6 +316,4 @@ if __name__ == "__main__":
     threading.Thread(target=run_web, daemon=True).start()
     # Bot အလုပ်လုပ်မည်
     bot.infinity_polling()
-
-```
     
