@@ -6,7 +6,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, BotCommand
 
 # --- CONFIGURATION ---
-BOT_TOKEN = os.environ.get("8842275295:AAHIHACzMRlbhE8fSJxxuFDAmvTKh0JQ1Mg")
+BOT_TOKEN = os.environ.get("8842275295:AAE_zKGIGeWSiS2waVjWU9sCGGb0F_BVvxk")
 ADMIN_GROUP_ID = int(os.environ.get("-1004376603252", 0))
 ADMIN_ID = int(os.environ.get("6673230697", 0)) 
 
