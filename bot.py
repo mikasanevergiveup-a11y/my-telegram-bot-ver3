@@ -1,4 +1,3 @@
-```python
 import telebot
 from telebot import types
 from flask import Flask, jsonify, render_template_string, request, redirect, url_for, session
